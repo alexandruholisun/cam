@@ -1,0 +1,1 @@
+The file main.asc must be uploaded to your Flash Media Server in the application folder you have setup for the video portion of this script. If you need help with this contact your Flash Media Server Hosting tech support, If you need flash media hosting we reccomend Influxis.com great service and great tech support.
