@@ -1,0 +1,10 @@
+Step1 - Login into your Paypal Account
+
+Step2 - Click "Edit Profile"
+
+Step3 - Click Website Payment Preferences
+
+Step4 - Enter the URL that has the Paypal PDT(Payment Data Transfer) attached to it under "Return URL". It should be same as of the Return URL you have typed into the Admin Panel "Configure Payment" Option.
+
+Step5 - Enable "Auto Return" and "Payment Data Transfer" by clicking into the Radio buttons.
+
