@@ -1,0 +1,1 @@
+# You must import the file db.sql to the database you have setup for this web script using PhpMyAdmin. If you need assistance in doing this contact your Web hosting tech support and they will help you.
